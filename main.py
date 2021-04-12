@@ -3,5 +3,9 @@
 #
 print("Hello World 1 in team leader server")
 
-print("Update in local A")
 # add print below this line
+print("Update in Leader")
+
+print("Update in local A")
+
+print("Update in local B")
